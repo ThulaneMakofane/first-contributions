@@ -113,7 +113,7 @@ Change to the repository directory on your computer (if you are not already ther
 ```
 cd first-contributions
 ```
-
+s
 Now create a branch using the `git checkout` command:
 
 ```
